@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan Sanvicente</h1>
-<h3 align="center">Data Analysis jr | 🇲🇽</h3>
+<h3 align="center">Junior Data Analyst | Data Analytics & Visualization 🇲🇽</h3>
 
 - 📊 Interested in Data Analysis and Data Science.
 - 🐍 Working with Python, Pandas, NumPy and Scikit-learn.
